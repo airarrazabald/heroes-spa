@@ -6,7 +6,7 @@ App web donde se pueden visualizar una serie de heroes de marvel y dc . Incluye 
 
 Si quieres saber como se ve este proyecto desplegado puede revisarlo en el siguiente link:
 
-[heroes-app](https://heroes-spa-react.netlify.app/login)
+[heroes-app](https://heroes-spa-react.netlify.app)
 
 
 
