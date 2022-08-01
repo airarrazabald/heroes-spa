@@ -6,27 +6,27 @@ App web donde se pueden visualizar una serie de heroes de marvel y dc . Incluye 
 
 Si quieres saber como se ve este proyecto desplegado puede revisarlo en el siguiente link:
 
-[heroes-app](https://heroes-spa-react.netlify.app)
+[heroes-spa](https://airarrazabald.github.io/heroes-spa/#/login)
 
 ## Instalación
 
-```
+```yarn
 yarn install
 ```
-
 
 ## Previsualización
 
 ![Heroes SPA](preview/heroes-spa.png)
 
-## Despliegue en github 
+## Despliegue en github
 
-### para desplegar en github se deben seguir los siguientes pasos
+### Para desplegar en github se deben seguir los siguientes pasos':'
 
-* ejecutar el siguiente comando para generara versión para producción
+* ejecutar el siguiente comando para generar versión para producción
 
-    *yarn build*
-
+    ```yarn
+    yarn build
+    ```
 
 * Renombrar la carpeta creada *dist* por *docs*
 
@@ -34,7 +34,7 @@ yarn install
 
     `<script type="module" crossorigin src="/assets/index.57fa7f15.js"></script>`
 
-    Por 
+    Por
 
     `<script type="module" crossorigin src="./assets/index.57fa7f15.js"></script>`
 
@@ -43,8 +43,3 @@ yarn install
  * Pegar la carpeta heroes en la carpeta para despliegue a producción *docs/assets*
  
  * Guardamos los cambios y subimos al repositorio
-
-
-
-
-
