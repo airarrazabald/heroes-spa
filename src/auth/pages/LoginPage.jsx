@@ -40,7 +40,7 @@ export const LoginPage = () => {
 
   return (
     <div className="container mt-5 text-center col-xl-4 col-md-6 col-xs-12">
-        <h1>App Heroes</h1>
+        <h1>Heroes SPA</h1>
         <hr />
         <form onSubmit={ onSubmit  }>
           <input 
