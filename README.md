@@ -8,8 +8,6 @@ Si quieres saber como se ve este proyecto desplegado puede revisarlo en el sigui
 
 [heroes-app](https://heroes-spa-react.netlify.app)
 
-
-
 ## Instalación
 
 ```
