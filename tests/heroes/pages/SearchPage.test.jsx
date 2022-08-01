@@ -36,7 +36,7 @@ describe('Pruebas en <SearchPage/>', () => {
         expect( input.value  ).toBe('batman');
 
         const image = screen.getByRole('img');
-        expect( image.src  ).toContain('/assets/heroes/dc-batman.jpg');
+        expect( image.src  ).toContain('./assets/heroes/dc-batman.jpg');
 
         const divMessage = screen.getByLabelText('divWarning')
         expect(divMessage.style.display).toBe('none');
